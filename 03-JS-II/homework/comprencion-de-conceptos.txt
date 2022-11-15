@@ -1,0 +1,13 @@
+"FOR": el bucle for es un statement que evalua la condicion de una variable que hallamos
+asignado, y mientras esta condicion sea "true", el condigo se seguira ejecutando hasta que
+la condicion sea "false" y detenga el codigo
+
+"&&": el "&&" es un operador logico cuyo signifaicado es "Y"("AND"). Este operador evalua dos
+expresiones, y si ambas expresiones son verdaderas el operador lanzará "true", de lo contrario
+lanzará "false"
+
+"||": el "||" es otro operador cuyo significado es "O"("or"). es operador evaluará dos expresiones,
+y solo si lanzará "false" si ambas expresiones son falsas, de lo contrario, siempre lanzará "true"
+
+"!": es otro operador el cual significa "NOT"("no"). este operador devolverá "true" si la
+condicion que hayamos puesto es falsa. Si la condicion es veradera, el operador devolverá "false"
