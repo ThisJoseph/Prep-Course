@@ -1,0 +1,14 @@
+ARRAYS: los arrays nos permiten crear una lista de todos los tipos de datos que conocemos en una sola
+variable. los arrays puede contener cualquier tipo de datos como los strings, booleanos, numeros, funciones
+has incluso otros arrays.
+
+para asignar un array, el contenido se tiene que poner entr dos corchetes ("[]"). los elementos dentro de un array
+van a ir ordenados en una posicion numérica denominada "indice", el cual SIEMPRE va inciar en 0, y para 
+poder invocar un elemento, se escribe el nombre de la array, seguido de dos corchetes mas el indice en el que
+está posicionado.
+
+cuando se quiera eliminar un elemento dentro de un array, se utiliza ".pop()", esto te imprimirá el ultimo
+elemento dentro de la array, pero a demas tambien lo eliminará para siempre.
+
+caso contrario, si queremos agregar un nuevo elemento en el array, utilizaremos ".push()", esto agregará
+un elemeto mas al array y podemos hacerlo cuantas veces queramos.
