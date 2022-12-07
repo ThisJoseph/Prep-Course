@@ -1,0 +1,19 @@
+OBJETOS:  un objeto es una especie de contenedor donde podemos guardar mucha informacion. a diferencia
+de los arrays, donde cada valor esta guardado dentro de un indicador llamado indice y que esta marcado por
+numeros, los objetos cuentan con una carcateristica llama "clave-valor", donde tu puedes asignar el nombre del 
+lugar donde quieres que se guarde sierto valor(clave). se entiende con la siugiente sintaxis 
+"nombre de la clave: valor que quieres asignar". Cabe resaltar que un objeto siempre va ir instanciado por
+llaves ("{}").
+
+PROPIEDADES: propiedad es el nombre que recibe una "clave" creada dentro de un objeto.
+
+MÉTODOS: los metodos dsontodas las propiedades cuyo valor asignado es una funcion.
+
+BUCLE "for...in": debido a que en los objetos no podemos usar los ciclos normales for, se untiliza un sintaxis
+llamada "for...in loop". Este bucle comienza igual que un for normal, pero dentro de los parentecis, tenemos
+que declarar una variable, luego tendremos que escribir la palabra clave "in", y por ultimo el nombre del 
+objeto. Esto lo que hace es que recorrerá cada propiedad del objeto hasta que los haya iterado todos.
+
+NOTACION DE PUNTOS VS NOTACION DE CORCHETES: tanto la notación de puntos como la notación de corchetes sirven para acceder a propiedades
+de objetos. la mas utilizada es la notación de puntos porque es mas facil de escribir y mas limpia a la vista. Sin embargo, una de las 
+principales caracteriscas es que con la notación de corchetes podemos acceder al valor de porpiedades mediante variables.
